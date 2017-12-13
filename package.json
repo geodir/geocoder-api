@@ -1,0 +1,28 @@
+{
+  "name": "@geodir/geocoder-api",
+  "version": "0.1.0",
+  "description": "Geodir Geocoder Api",
+  "main": "src/index.ja",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geodir/geocoder-api.git"
+  },
+  "keywords": [
+    "Geocoder",
+    "Geodir",
+    "Location",
+    "Locate",
+    "Geolocation",
+    "Latitud",
+    "Longitud"
+  ],
+  "author": "Danilo Nicolas Mendoza Ricaldi <nmendozaricaldi@gmail.com> (https://nmendozaricaldi.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geodir/geocoder-api/issues"
+  },
+  "homepage": "https://github.com/geodir/geocoder-api#readme"
+}
